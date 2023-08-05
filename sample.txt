@@ -1,0 +1,153 @@
+ExifTool Version Number         : 12.60
+File Name                       : IMG_0762.JPG
+Directory                       : /Volumes/Seagate Backup Plus Drive/dans-dropbox-2017-03-07/iphoto/2005/12/11
+File Size                       : 635 kB
+File Modification Date/Time     : 2017:03:13 20:21:23-05:00
+File Access Date/Time           : 2017:03:13 20:21:23-05:00
+File Inode Change Date/Time     : 2017:03:13 20:21:23-05:00
+File Permissions                : -rwxr-xr-x
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Make                            : Canon
+Camera Model Name               : Canon PowerShot S500
+Orientation                     : Horizontal (normal)
+X Resolution                    : 180
+Y Resolution                    : 180
+Resolution Unit                 : inches
+Modify Date                     : 2005:12:11 14:44:23
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/500
+F Number                        : 7.1
+Exif Version                    : 0220
+Date/Time Original              : 2005:12:11 14:44:23
+Create Date                     : 2005:12:11 14:44:23
+Components Configuration        : Y, Cb, Cr, -
+Compressed Bits Per Pixel       : 2
+Shutter Speed Value             : 1/501
+Aperture Value                  : 7.1
+Max Aperture Value              : 2.8
+Flash                           : Auto, Did not fire
+Focal Length                    : 7.4 mm
+Macro Mode                      : Normal
+Self Timer                      : Off
+Quality                         : Normal
+Canon Flash Mode                : Red-eye reduction (Auto)
+Continuous Drive                : Single
+Focus Mode                      : Single
+Record Mode                     : JPEG
+Canon Image Size                : Large
+Easy Mode                       : Full auto
+Digital Zoom                    : None
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : 0
+Camera ISO                      : Auto
+Metering Mode                   : Evaluative
+Focus Range                     : Auto
+AF Point                        : Auto AF point selection
+Canon Exposure Mode             : Easy
+Lens Type                       : n/a
+Max Focal Length                : 22.21875 mm
+Min Focal Length                : 7.40625 mm
+Focal Units                     : 32/mm
+Max Aperture                    : 2.9
+Min Aperture                    : 6.9
+Flash Bits                      : (none)
+Focus Continuous                : Single
+AE Setting                      : Normal AE
+Zoom Source Width               : 2592
+Zoom Target Width               : 2592
+Spot Metering Mode              : AF Point
+Photo Effect                    : Off
+Manual Flash Output             : n/a
+Focal Type                      : Zoom
+Focal Plane X Size              : 7.37 mm
+Focal Plane Y Size              : 5.51 mm
+Auto ISO                        : 100
+Base ISO                        : 50
+Measured EV                     : 15.72
+Target Aperture                 : 7.1
+Target Exposure Time            : 1/501
+Exposure Compensation           : 0
+White Balance                   : Auto
+Slow Shutter                    : Off
+Shot Number In Continuous Burst : 0
+Optical Zoom Code               : 0
+Flash Guide Number              : 0
+Flash Exposure Compensation     : 0
+Auto Exposure Bracketing        : Off
+AEB Bracket Value               : 0
+Control Mode                    : Camera Local Control
+Focus Distance Upper            : 1.41 m
+Focus Distance Lower            : 0 m
+Bulb Duration                   : 0
+Camera Type                     : Compact
+Auto Rotate                     : None
+ND Filter                       : Off
+Self Timer 2                    : 0
+Flash Output                    : 0
+Num AF Points                   : 9
+Valid AF Points                 : 9
+Canon Image Width               : 2592
+Canon Image Height              : 1944
+AF Image Width                  : 2592
+AF Image Height                 : 216
+AF Area Width                   : 467
+AF Area Height                  : 39
+AF Area X Positions             : -468 0 468 -468 0 468 -468 0 468
+AF Area Y Positions             : -42 -42 -42 0 0 0 42 42 42
+AF Points In Focus              : 5,7,8
+Primary AF Point                : 5
+Thumbnail Image Valid Area      : 0 0 0 0
+Canon Image Type                : IMG:PowerShot S500 JPEG
+Canon Firmware Version          : Firmware Version 1.00
+File Number                     : 107-0762
+Owner Name                      : 
+Canon Model ID                  : PowerShot S500 / Digital IXUS 500 / IXY Digital 500
+User Comment                    : 
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 2592
+Exif Image Height               : 1944
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+Related Image Width             : 2592
+Related Image Height            : 1944
+Focal Plane X Resolution        : 9159.010601
+Focal Plane Y Resolution        : 9169.811321
+Focal Plane Resolution Unit     : inches
+Sensing Method                  : One-chip color area
+File Source                     : Digital Camera
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+Digital Zoom Ratio              : 1
+Scene Capture Type              : Standard
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 2560
+Thumbnail Length                : 3407
+Image Width                     : 2592
+Image Height                    : 1944
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:2 (2 1)
+Drive Mode                      : Single-frame Shooting
+ISO                             : 50
+Lens                            : 7.4 - 22.2 mm
+Shooting Mode                   : Full auto
+Aperture                        : 7.1
+Image Size                      : 2592x1944
+Lens ID                         : Unknown 7-22mm
+Megapixels                      : 5.0
+Scale Factor To 35 mm Equivalent: 4.8
+Shutter Speed                   : 1/500
+Thumbnail Image                 : (Binary data 3407 bytes, use -b option to extract)
+Lens                            : 7.4 - 22.2 mm (35 mm equivalent: 35.7 - 107.0 mm)
+Circle Of Confusion             : 0.006 mm
+Depth Of Field                  : 1.16 m (0.45 - 1.61 m)
+Field Of View                   : 53.5 deg
+Focal Length                    : 7.4 mm (35 mm equivalent: 35.7 mm)
+Hyperfocal Distance             : 1.24 m
+Light Value                     : 15.6
